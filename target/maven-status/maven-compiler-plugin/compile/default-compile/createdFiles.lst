@@ -1,5 +1,0 @@
-com\sm\entity\Product.class
-com\sm\repository\ProductRepository.class
-com\sm\service\ProductService.class
-com\sm\controller\ProductController.class
-com\sm\DemoApplication.class
